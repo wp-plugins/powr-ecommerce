@@ -24,7 +24,7 @@ First, download, install, and activate POWr eCommerce. Then drop the widget anyw
 <br>
 = Free Features =
 * Sell an unlimited number of physical or digital products.
-* Flat 1% transaction fee charged on all payments.
+* Flat 1% transaction fee (plus standard PayPal fees)
 * Integrated online store, shopping cart, and checkout.
 * Create recurring payments for memberships and subscriptions.
 * Add product titles, descriptions and unlimited images.
