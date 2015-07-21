@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The simple way to sell products, downloads, and subscriptions.
 
 == Description ==
- The simple way to sell products, downloads, and subscriptions.
+[youtube https://www.youtube.com/watch?v=IADVnxAYaCw] The simple way to sell products, downloads, and subscriptions.
 <br>
 <br>
 POWr eCommerce is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -23,12 +23,12 @@ First, download, install, and activate POWr eCommerce. Then drop the widget anyw
 = <a href='http://www.powr.io/tutorials/how-to-add-ecommerce-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Sell an unlimited number of physical or digital products.
-* Flat 1% transaction fee (plus standard PayPal fees)
+* Sell unlimited physical or digital products.
 * Integrated online store, shopping cart, and checkout.
+* Dynamic pricing variables.
 * Create recurring payments for memberships and subscriptions.
-* Add product titles, descriptions and unlimited images.
-* Dynamic pricing based on options like color, size, and material.
+* Secure payments through PayPal.
+* 1% POWr commission fee (plus standard PayPal fees)
 * Price controls for shipping and tax.
 * Add discounts by flat rate, percentage, or promo code.
 * Safe and reliable payment processing through PayPal.
