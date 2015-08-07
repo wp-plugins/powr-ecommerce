@@ -23,12 +23,12 @@ First, download, install, and activate POWr eCommerce. Then drop the widget anyw
 = <a href='http://www.powr.io/tutorials/how-to-add-ecommerce-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Sell unlimited physical or digital products.
+* No added transaction fees.
+* Sell physical or digital products.
+* Accept PayPal, Credit, and Debit Cards.
 * Integrated online store, shopping cart, and checkout.
-* Dynamic pricing variables.
-* Create recurring payments for memberships and subscriptions.
-* Secure payments through PayPal.
-* 1% POWr commission fee (plus standard PayPal fees)
+* Dynamic pricing options.
+* Recurring payments for memberships and subscriptions.
 * Price controls for shipping and tax.
 * Add discounts by flat rate, percentage, or promo code.
 * Safe and reliable payment processing through PayPal.
@@ -40,6 +40,15 @@ First, download, install, and activate POWr eCommerce. Then drop the widget anyw
 * Language support for any language.
 <br>
 
+= Upgrade ($5.99)/mo and: =
+* Eliminate all POWr logos and watermarks
+* Unlimited products
+* Unlimited product images
+* Unlimited product options
+* Unlimited pricing options
+* Enable plugin analytics to measure visitors and page views
+* Receive premium POWr support
+* Support the development of other great plugins
 
 
 
@@ -118,4 +127,3 @@ Easily add POWr plugins right from the text editor.
 Improved functionality within the wp text editor.
 
 
-!
